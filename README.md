@@ -3,4 +3,4 @@ voice recording app , pushing recordings to mongoDB without storing it to local 
 
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FIMG_%2528company%2529&psig=AOvVaw2YlHrVRqwzUJLwaRdvF9Zf&ust=1669897046299000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCN3LPx1fsCFQAAAAAdAAAAABAE">
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQHMnA03XDdf3w/company-logo_200_200/0/1519855918965?e=2147483647&v=beta&t=J3kUMZwIphc90TFKH5oOO9Sa9K59fimgJf-s_okU3zs">
